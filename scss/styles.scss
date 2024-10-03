@@ -1,11 +1,17 @@
 @import '~bootstrap/scss/bootstrap';
 
 .form {
-    align-items: center; /*!center of page */
-    justify-content: center; /*!center of page */
-    display: flex; /*!center of page */
+    align-items: center;/*!center of page */
+    justify-content: center;/*!center of page */
+    display: flex;/*!center of page */
     margin-top: 50px;
-    
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.inputs {
+    display: flex;
+    justify-content: center;
 }
 
 
