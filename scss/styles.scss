@@ -1,9 +1,18 @@
 @import '~bootstrap/scss/bootstrap';
-.focus-ring {
-    $focus-ring-width: .25rem;
-    $focus-ring-opacity: .25;
-    $focus-ring-color: rgba($primary, $focus-ring-opacity);
-    $focus-ring-blur: 0;
-    $focus-ring-box-shadow: 0 0 $focus-ring-blur $focus-ring-width $focus-ring-color;
 
+.form {
+    align-items: center; /*!center of page */
+    justify-content: center; /*!center of page */
+    display: flex; /*!center of page */
+    margin-top: 50px;
+    
 }
+
+
+
+
+
+
+
+
+

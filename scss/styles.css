@@ -11964,4 +11964,10 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.form {
+  align-items: center; /*!center of page */
+  justify-content: center; /*!center of page */
+  display: flex; /*!center of page */
+  margin-top: 50px;
 }/*# sourceMappingURL=styles.css.map */
