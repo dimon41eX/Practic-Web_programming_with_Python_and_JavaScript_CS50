@@ -11970,11 +11970,51 @@ textarea.form-control-lg {
   justify-content: center; /*!center of page */
   display: flex; /*!center of page */
   margin-top: 50px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 700px;
+  margin-right: 700px;
 }
 
 .inputs {
   display: flex;
   justify-content: center;
+}
+
+.focus-ring-1 {
+  width: 70%;
+}
+
+.focus-ring-2 {
+  background-color: #0d8af0;
+  color: white;
+  border: 1px solid #f7f7f7;
+  border-radius: 5px;
+}
+
+.focus-ring-2:hover {
+  background-color: #14a9ee;
+}
+
+.focus-ring-2:focus {
+  outline: 2px solid #0dcaf0;
+}
+
+.focus-ring-1 {
+  border: 1px solid #f7f7f7;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.focus-ring-1:focus {
+  outline: 2px solid #0dcaf0;
+}
+
+.buttons {
+  margin-top: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.btn {
+  margin: 5px;
 }/*# sourceMappingURL=styles.css.map */
