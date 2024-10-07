@@ -12017,4 +12017,13 @@ textarea.form-control-lg {
 
 .btn {
   margin: 5px;
+}
+
+.form2 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 700px;
+  margin-right: 700px;
 }/*# sourceMappingURL=styles.css.map */
